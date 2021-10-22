@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anvis Digital Assignment</string>
+    <string name="search_for_your_favorite_movie">Search for your favorite movie...</string>
+    <string name="release_year">Release Year : </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
